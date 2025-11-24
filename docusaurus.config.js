@@ -12,7 +12,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
 // ...
 url: ’https://github.com’, // URL do Github
-baseUrl: ’ADC-DOCUSAURUS’, // Nome do repositorio (entre /) ALTERAR
+baseUrl: ’/ADC-DOCUSAURUS/’, // Nome do repositorio (entre /) ALTERAR
 organizationName: ’tppi89976’, // Nome do utilizador ALTERAR
 projectName: ’ADC-DOCUSAURUS’, // Nome do repositorio ALTERAR
 deploymentBranch: ’gh-pages’, // Nome do ramo a ser publicado
