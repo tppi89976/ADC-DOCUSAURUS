@@ -28,7 +28,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'tpi89976', // Usually your GitHub org/user name.
+  organizationName: 'tppi89976', // Usually your GitHub org/user name.
   projectName: 'ADC-DOCUSAURUS', // Usually your repo name.
   deploymentBranch: 'gh-pages',
   onBrokenLinks: 'throw',
