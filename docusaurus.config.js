@@ -10,9 +10,16 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
-  favicon: 'img/favicon.ico',
+// ...
+url: ’https://github.com’, // URL do Github
+baseUrl: ’ADC-DOCUSAURUS’, // Nome do repositorio (entre /) ALTERAR
+organizationName: ’tppi89976’, // Nome do utilizador ALTERAR
+projectName: ’ADC-DOCUSAURUS’, // Nome do repositorio ALTERAR
+deploymentBranch: ’gh-pages’, // Nome do ramo a ser publicado
+trailingSlash: false, // recomendado para o Github Pages
+// ...
+}
+
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
